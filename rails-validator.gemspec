@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'rails-validator'
-  s.version     = '0.0.1'
+  s.version     = '0.0.3'
   s.date        = '2019-11-23'
   s.summary     = 'Validate inputs (Files/Email/Passwords)'
   s.description = ''
