@@ -1,3 +1,6 @@
+# RubyGems
+https://rubygems.org/gems/rails-validator
+
 # Description
 Gem to validate files, emails and passwords input
 
@@ -11,7 +14,7 @@ gem 'rails-validator
 # Usage
 Call the gem wherever you need to validate some input
 ```
-RailsValidator.validate_file(params[:file].path)
+RailsValidator.validate_file(file_name, file_size)
 
 RailsValidator.validate_email(email)
 
